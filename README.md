@@ -1,4 +1,4 @@
-# Password-Lockbook-Using-Python
+# Password-Lockbook
 This is a password lockbook where you can store your user id information (website name and password)
 and it can search for a website's password that you have stored before.
 
